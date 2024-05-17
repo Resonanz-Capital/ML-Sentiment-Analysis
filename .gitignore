@@ -1,0 +1,15 @@
+__pycache__/
+.vscode/
+.idea/
+env/
+venv/
+migrations/
+.ipynb_checkpoints/
+.DS_Store
+.env*
+*.py[cod]
+*.sublime-*
+readme.md
+*.pyc
+*.pdf
+*.csv
