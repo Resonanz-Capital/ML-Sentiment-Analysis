@@ -1,0 +1,239 @@
+The year started with a partial unwind of the market euphoria of November and December.
+Throughout January the US posted strong economic data. While these new inputs added
+further credence to the view that the US is heading for a soft landing, they also pushed back
+against hopes that the US Federal Reserve (Fed) will need to ease monetary policy any time
+soon. At the end of 2023, Fed Chairman Jerome Powell had guided that rate hikes were likely
+behind us and the time for cuts would soon be in sight, leading to an increase in pricing of
+cuts at the March FOMC meeting. However, the January FOMC meeting proved more
+hawkish than expected with Chairman Powell indicating that a start to the cutting cycle in
+March was not their base case scenario. Markets unwound easing expectations accordingly
+and the US dollar strengthened versus peers.
+In emerging markets, sovereign bond issuance took off with a record start with USD 44.3bn issued via
+primary markets in January. The record number marks the highest monthly issuance since the breakout of
+the Covid-19 pandemic and follows last years record January issuance. The vast majority of issuance came
+from investment grade credits like Saudi Arabia and Mexico, which when combined, accounted for almost
+60% of total investment grade issuance. However, the most interesting deal came from high yield issuer Cote
+dIvoire who became the first sub-Saharan Africa sovereign issuer in almost two years. The successful
+placement opens the doors for other sovereigns who have been waiting in the wings to tap markets, eagerly
+waiting for borrowing levels to return to acceptable levels. The likes of Kenya and Angola will be keenly
+watched to see if they are able to issue to alleviate near term funding pressures that have built up.
+We will be focused on how US data evolves to
+understand what the US easing cycle will eventually look
+like and when it will begin
+Emerging market bonds finished the month weaker in both external and local currency markets. The JP
+Morgan EMBI Global Diversified Index (EMBI-GD), which tracks US dollar denominated debt, posted a -1%
+return. Investment grade credits were the primary driver behind the underperformance, a combination of
+core market repricing and large supply. High yield markets were more supported as risk appetite remained
+well contained given the continued equity market outperformance and the successful placement of high yield
+primary issuance. The JP Morgan GBI-EM Global Diversified Index (GBI-EM GD), which tracks local currency
+denominated debt, returned -1.5% in January. The negative return was primarily driven by the FX component
+as strong US data and a hawkish FOMC meeting pushed the US dollar stronger versus peers.
+Looking forward, we will be focused on how US data evolves to understand what the US easing cycle will
+eventually look like and when it will begin. Across the world, politics will also come increasingly into focus.
+In the US, we are set for another polarizing US election, while emerging markets are set for a record number
+of elections. December 2023 followed a highly volatile November in which decent total returns were
+delivered post the core rates rally that provided significant tailwind to markets. Market
+participants proceeded to navigate a highly active schedule of macro data releases in
+December, including NFP, CPI, and the FOMC, all within the brief pre-holiday period
+spanning only 2.5 weeks, until liquidity declined and market activity slowed. Comments from
+Federal Reserve Governor, Christopher Waller, indicating potential rate cuts in Q1 2024
+continued to impact markets, offering additional support to global macro and EM credit.
+Overall, the Emso Absolute Return portfolios navigated through the December data releases
+well, which was largely devoid of big surprises.
+The bid for duration remained incredibly strong over December; by the end of the first two weeks, the IG
+component of the JP Morgan EMBI-Global Index returned almost 1.5%, with rates accounting for two thirds
+of the returns and the remainder from spread compression. The year end culmination by the FOMC around
+mid-December resulted in a further rates rally, driving 10-year US treasury yields to 3.8% as the finishing
+mark for the year, and substantially boosting emerging market hard currency total returns. The JP Morgan
+EMBI-Global Diversified Index (EMBI-GD) returned 4.73% in December with both the IG and HY components
+bringing in almost identical return numbers of 4.74% and 4.72% respectively.
+January brought a busy month for primary market
+activity in EM credit with a record breaking amount of
+new issuance
+Entering the new calendar year after two outstandingly strong months was by no means going to be an easy
+task. Markets had not only seemed to have overshot in the macro landscape by assigning a very decent
+probability of rate cuts in March 2024, but there was also little room for spread compression across EM IG
+and the bulk of liquid BB rated credits. Further adding to these factors is the seasonality component which
+often sees substantial fixed income issuance across both developed and emerging markets. Within the first
+few days of January 2024, markets experienced a 25 basis point pullback in core rates, bringing month-to
+date returns into negative territory, and by 10 January the EMBI-GD Index had hit the months low at -2.2%.
+While markets partially recovered with the rally in rates, the EMBI-GD Index failed to recover to the green,
+ending the month at -1.02%.
+Assessing bond price changes for liquid EM sovereign curves in the EMBI-GD Index, we find that only
+distressed idiosyncratic credits were up on the month and all other benchmark curves were down. Most
+notably, bond prices in Ecuador and Pakistan were up around 15% and 8% respectively, on the month, however Argentina, Tunisia, Zambia, and Sri Lanka were all also curves in the green for the month of
+January. The Emso Absolute Return portfolios participated in four of these six stories.
+Considering how tight the spreads are among higher rated EM issuers, we believe that it is worth adjusting
+how we observe the EM fixed income universe. We find that taking the approach of selecting the highest
+yielding current issuers in our universe as at end of January 2024, which we view as having a greater chance
+of spread compression and total return gains, produces a group of countries that could potentially deliver
+good alpha. These countries include (in yield descending order) Pakistan, Egypt, Angola, El Salvador, Kenya,
+Nigeria, Senegal, Iraq, Ivory Coast, Jordan. The Emso Absolute Return portfolios have participated in all
+these names so far this year.
+January brought a busy month for primary market activity in EM credit with a record breaking amount of new
+issuance with multi-billion deals from Mexico, Brazil, Ecoperol in Latam, Saudi Arabia and Saudi PIF,
+Hungary, Romania, as well as Turkish corporates, and banks in CEEMEA. Indonesia also came to price its
+triple tranche bond issue on 4 January totalling USD 2.05 billion, ahead of the upcoming February elections.
+As mentioned in this months Overview article above, there was single large and very welcomed event in
+January with the primary market reopening for a HY sovereign issuer in Africa after a drought of new
+issuance from that region for last two years. The Ivory Coast announced the tender of front-end maturities
+in US dollar and Euros and came with a dual tranche USD 2.6 billion deal which traded extremely well on the
+break. We regard this as a very welcome change which should lead to greater investor confidence in
+prospective deals by the other issuers from the continent after years of difficulties in accessing public
+markets. PAKISTAN: METHOD IN THE MADNESS
+With Pakistan in the headlines due to its elections, we decide to review the countrys recent
+journey back from the brink of default and share our thoughts on the outlook.
+2023 began with Pakistan being deeply mired in a confluence of crises: Politically, there was
+a high degree of turmoil with Imran Khans government being dissolved after a vote of no
+confidence in April 2022. His government was replaced by a fragile coalition government that
+faced a popular protest movement as Imran Khans supporters took to the streets.
+Economically, the IMF program had stalled since mid-2022 and talks between the fund and
+the Finance Ministry were facing an impasse on the issues of raising taxes, currency
+devaluation, and subsidy removal. Net FX reserves with the State Bank had whittled down to
+USD 3 billion, and inflation was running at 25%. Adding to this, the country was still reeling
+from the impact of devastating floods in August 2022. As an indicator of the high probability
+of default priced in by the market, by June 2023, Pakistans US dollar denominated bonds
+maturing in 2025 were trading at 40 cents on the dollar, which was in line with the levels that
+Sri Lankas defaulted debt was trading at the time.
+Since the start of 2023, a number of events have helped Pakistan inch back from the brink of default. Firstly,
+political stability improved as the army conducted a crackdown on Former Prime Minister Imran Khans
+party, which ultimately culminated in Imran Khan and several of his supporters being imprisoned. This
+removed the pressure on the government of a protest movement on the streets and also gave creditors
+greater visibility on who they would likely be lending to post-election. Secondly, at the end of June 2023, the
+IMF approved a new USD 3 billion, 9-month deal instead of simply releasing the final USD 1 billion tranche
+under the previous deal. This unlocked funding from other multilaterals, the GCC, and China. Finally, the
+elections were delayed allowing a technocratic government six months to deal with the IMF and make painful
+fiscal adjustments without having to worry about the political consequences. The technocratic interim
+government successfully concluded the first review of the IMF program in November 2023. Moreover, they
+have laid the ground for a new, long-term program that the incoming government can sign on to once the
+existing program ends in March 2024. While buffers remain thin, FX reserves at the State Bank have
+increased from USD 3 billion to USD 8 billion over the course of 2023. As an indicator of improved market
+confidence in Pakistans prospects, the aforementioned US dollar denominated bonds maturing in 2025 are
+now trading at 88 cents on the dollar.
+While the PTI will pursue legal action to contest the
+results, we believe that these will languish in the
+Pakistani court system
+The elections were held on 8 February 2024 on an uneven playing field with Prime Minister Nawaz Sharifs
+Pakistan Muslim League-Nawaz (PML-N) party as the armys preferred party. Top leadership and activists
+from Imran Khans Pakistan Tehreek-e-Insaf (PTI) party were imprisoned, forcing the party to field
+Past performance is not necessarily indicative of future results.
+candidates as independents instead of under their party symbol; posing challenges in a country with a 42%
+illiteracy rate1 where many voters need to see a symbol in order to know who they are voting for. Despite the
+favorable set-up for the PML-N, the PTI voter turnout surprised to the upside and the elections were marred
+by accusations of widespread irregularities and vote fixing. While PTI-backed independents won a plurality
+of seats, they fell significantly short of a simple majority. After several days of deliberations, the PML-N and
+the center-left Pakistan Peoples Party (PPP) announced that they would form a coalition government along
+with some smaller parties. The unwillingness of the PTI to work with the PML-N and PPP means that they
+are likely to sit in opposition. While the PTI will pursue legal action to contest the results, we believe that
+these will languish in the Pakistani court system. At the same time the political crackdown on the PTI  has
+reduced the risk of a protest movement spiraling out of control, and the response from the US seems to
+indicate that they are looking the other way.
+We therefore remain constructive on Pakistan over the
+next six months as we expect a new long-term IMF
+program will be signed by the incoming government
+While there may be concerns around the role that former Finance Minister Ishaq Dar may play in the new
+administration, the PML-N is a known entity with a pro-business stance. Moreover, while Pakistan has
+always had some degree of military influence in its politics, we believe that the army is firmly in control of
+the current situation at this juncture. Having undertaken a power grab over the past 12 months and then
+having had a technocratic government implement painful fiscal adjustments, including substantial fuel and
+energy hikes, we believe that the army is unlikely to let an incoming government squander those gains
+immediately. Although Pakistan has a long history of failed IMF programs, we believe that the government
+will wait until the country is out of the woods before allowing the IMF program to go off track.
+We therefore continue to remain constructive on Pakistan over the next six months as we expect a new long
+term IMF program will be signed by the incoming government which will, in turn, unlock funding from others.
+We expect the short-term bonds to be paid which should help support the rest of the curve, particularly given
+that investor positioning continues to be underweight Pakistan. Pakistans resilience in the face of default is
+in part explained by the institutional strength of its army that prevents the country from completely
+collapsing and by its geopolitical importance: the international community does not want to see a nuclear
+armed country of 230 million people default and fall into chaos. To go beyond resilience and actually enter a
+virtuous cycle that brings sustained improvement requires more wholesale political and economic reform
+which we have not yet seen evidence for. ESG CORNER
+HIGHLIGHTS OF KEY ESG ISSUES AFFECTING EMERGING MARKETS
+COP28
+Opinions on the success or failure of COP28, formally known as the 2023 United Nations Climate Change
+Conference, vary widely, both from a regional standpoint and across the scientific community. One clear
+departure from previous conferences was the official acknowledgement of "fossil fuels" in the final text.
+Whether this change will prove fundamental in necessitating the urgent need to act to meet the end goal
+1.5C target by 2100 is yet to be seen and will continue to be debated. In this short note we summarize our
+key takeaways from the conference:
+GLOBAL STOCKTAKE
+COP28 concluded the first "Global Stocktake", a process to be repeated every five years, which was
+established under Article 14 of the Paris Agreement with the aim to assess collective progress in achieving
+the Agreement's long-term goals. It involves three stages: (1) collecting data, (2) assessing initial data linked
+in with a technical review, and (3) political considerations. The first Nationally Determined Contribution
+(NDC) synthesis report paints an underwhelming picture. Global temperatures are projected to rise between
+2.4 to 2.6C, an improvement from the 3.03.2C estimated at the Paris Agreements. However, the report
+warns that the opportunity to limit warming to 1.5 C is diminishing due to inadequate progress. If all current
+NDCs are fully implemented, global CO2 emissions would exceed the amount needed to limit global warming
+to 1.5C by 20.3-23.9 gigatonnes (or 12.5 to 16.0 gigatonnes for a 2.0C target). The UN's 2023 Annual
+Emissions Gap Report reinforces that a significant amount of work is required to achieve a target of 1.5C to
+2C, each requiring a reduction in 2030 global GHG emissions between 28 per cent and 42 per cent
+respectively.
+THE UAE CONSENSUS
+Political consideration of the output from the NDC synthesis report led to the Global Stocktake outcomes
+referred to as the "UAE Consensus, which in turn should guide the next set of more ambitious NDCs.
+Highlights from the text are as follows:
+ Calls for transitioning away from fossil fuels in energy systems, in a just, orderly and equitable
+manner, accelerating action in this critical decade, so as to achieve net zero by 2050 in keeping with
+the science: this statement sparked the ongoing debate on whether it should have had a stronger
+phrase such as "phase out" to underline the commitment required to achieving the goal. We would
+argue that even with the watered-down term, it sets a positive direction going forwards;
+ Calls for tripling renewable energy capacity globally and doubling the global average annual rate of
+energy efficiency improvements by 2030: Also supported by a list of zero- and low-emission
+technologies, in addition to a Declaration to Triple Nuclear Energy. However, as the 2023 World
+Nuclear Industry Status Report points out, such pledges may be counterproductive. In 2022, and for
+the first time, China generated more energy through solar than nuclear power in 2022. Given the
+long lead times to build a nuclear power plant and the growing investment in renewables,
+the feasibility of this pledge is unknown.
+ Recognizes that transitional fuels can play a role in facilitating the energy transition while ensuring
+energy security: "Transitional fuels" likely refers to natural gas. While some fear this could be
+exploited as a loophole, it could benefit countries such as Senegal in Sub-Saharan Africa, that are
+Past performance is not necessarily indicative of future results.
+seeking to improve their energy security. This flexibility could help countries develop economically
+and transition to more efficient energy sources as defined within their economic cycle;
+ Calls for accelerating and substantially reducing non-carbon-dioxide emissions globally, including
+methane, by 2030: Given methanes potency compared to carbon dioxide and its near third
+contribution to current global warming, it is likely to feature in the updated NDCs as its risks become
+more appreciated.
+CARBON FINANCING AND MARKETS
+The continued failure of developed countries to jointly mobilize USD 100 billion was flagged with deep
+regret, with the text reiterating the need to meet this goal through to 2025. Based on preliminary 2022 data,
+it seems that this goal will be achieved for the first time. At COP28, further progress was made on the
+financial front. On the first day of the conference, the Loss and Damage fund was made operational,
+securing USD 792 million of early pledges from a number of countries. However, this is a small amount
+considering that estimates put financing needs nearer USD 390 billion per year to 2030, which is 50% higher
+than previous estimates. Additional commitments were made to the Green Climate Fund and the Adaptation
+Fund, and multilateral funding was also committed. One of the key agenda items for COP29, to be held in
+Baku, Azerbaijan, will be the agreement of a New Collective Quantified Goal (NCQG) to be agreed before
+2025, with a floor of USD 100 billion per year, aiming to take into account the needs and priorities of
+developing countries. Carbon markets are also set to feature, as progress on operationalizing Article 6 of
+the Paris Agreement has stalled.
+OUR TAKEAWAYS
+While the UAE Consensus showed that diplomacy across many various views and interests works, key issues
+continue to stand out, particularly, the urgent need for financing, the timescale for the transition, and more
+importantly, political will. Aside from the latter, which could be negatively impacted by the huge election
+calendar that we have entered and potential detrimental changes in climate policies as a result, the key issue
+is time and concerns of delaying action.
+Climate risks continue to increase for vulnerable Emerging Market countries and as a result, while COP28
+did make some headways across the board, it is imperative that sovereigns pursue and push their own
+agenda to finely balance economic growth and the move to more renewable technologies. Following the
+shock of Covid-19, increasing inflationary pressures, and supply shocks due to the Russo-Ukrainian war,
+vulnerable EMs public finances have been placed under further strain, and with it the rollout of policies with
+relation to mitigation and adaptation. To highlight an example of the risks countries face, the 2023 AfDB
+African Economic Performance and Outlook report claims that such shocks have pushed 15 million more
+Africans into extreme poverty, adding to adaptation pressures. As noted in our recent white paper Revisiting
+the case for Emerging Markets, "countries are diverse, with varying growth paths, policies, vulnerabilities,
+and ultimately, performance. Treating them uniformly risks overlooking this diversity. While developed
+nations are eager to phase out or down fossil fuels, many EM countries are at different economic life cycles.
+A forced transition to a renewable framework could be detrimental to their economic development given the
+financing and support that is required, which is currently nowhere close to being met. We live in an
+environment where global supply chains are established. We believe that we should make use of them,
+allowing EM countries to embrace fossil fuels in a less carbon-intensive manner - supporting their
+developmental goals, while also investing in supporting a push to expand their renewable footprint in which
+a nation has a competitive advantage. Continued support for disaster resilience should be encouraged, as
+sovereign states can be slow to improve their own mitigation measures, whether it is due to political will or
+funding gaps. This also goes hand-in-hand with continued sovereign engagement to ensure sustainability
+commitments are not just declarations on paper. Finally, we note that ESG benchmarks need to be careful
+in how they ascertain the progress that a sovereign has made towards decarbonizing. This could result in an
+unfair treatment of a sovereigns index weight, which could again, preclude them from much-needed
+financing.
